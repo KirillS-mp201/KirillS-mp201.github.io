@@ -191,13 +191,3 @@ canvas{
     margin-left: 80%;
 }
 
-#text-panel
-{
-  color: white;
-    margin-top:6%;
-    text-align: center
-  font: italic small-caps bold 16px/2 cursive;
-  font-size:1.3em;
-  text-align: center;
-  padding: 50px;
-}
