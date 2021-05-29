@@ -64,7 +64,10 @@ if (Diskr > 0)
 
 if (a != 0 && b == 0 && c != 0)
 {	if (c < 0)
+		{
 		x = Math.sqrt(-c / a);
+		document.write("x = ",x.toFixed(2) );
+		}
 	else
 		{
 			x = "("+"i^2*" +  c +"/"+ a+")"+"^(1/2)";
